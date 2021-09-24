@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rcnac/git/20210924-rodriguezc/header.c
+stdio.h
+-
+malloc.h
+-
+header.h
+C:/Users/rcnac/git/20210924-rodriguezc/header.h
+
+C:/Users/rcnac/git/20210924-rodriguezc/header.h
+
+C:/Users/rcnac/git/20210924-rodriguezc/main.c
+stdio.h
+-
+header.h
+C:/Users/rcnac/git/20210924-rodriguezc/header.h
+
